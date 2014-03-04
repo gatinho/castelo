@@ -1,0 +1,4 @@
+nomeBanco u620164634_caste
+usuarioBanco u620164634_caste
+enderecoBanco mysql.hostinger.com.br
+senhaBanco 1S2w3i4n5g6
